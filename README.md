@@ -1,1 +1,1 @@
-This will be a java app
+This will be a java web app
