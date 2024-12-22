@@ -1,1 +1,1 @@
-This will be a java web app
+This will be a java web app using common tools.
